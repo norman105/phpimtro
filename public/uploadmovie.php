@@ -25,11 +25,11 @@
   
 </head>
 <br>
-<body>
-   <div class="container">
+ 
+<body class="">
+   <div class="container" >
 <img id="icon" src="../images/icon.jpg"> <p>MOVIE SHOP </p></div>
-
-<div class="container">
+><div class="container">
   <p class="bg-info">Rael and Real:buy one get two free</p></div>
 
 <!-- button  -->
@@ -150,5 +150,5 @@ echo   $Movie_name."<br>".$Lead_Actor."<br>".$Duration."<br>".$Rating."<br>".$Ge
 
 
 
-</body>
+</body> 
 </html>

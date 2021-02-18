@@ -1,0 +1,687 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"p",
+				"password"
+			],
+			[
+				"e",
+				"errorEmail"
+			],
+			[
+				"er",
+				"errorpassword"
+			],
+			[
+				"E",
+				"errorPassword"
+			],
+			[
+				"error",
+				"errorEmail"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"bo",
+				"body\tTag"
+			],
+			[
+				"t",
+				"text-align\tproperty"
+			],
+			[
+				"c",
+				"cover\tbackground-size"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"b",
+				"body\tTag"
+			],
+			[
+				"ba",
+				"background-image\tproperty"
+			],
+			[
+				"ra",
+				"rate"
+			],
+			[
+				"le",
+				"leadactor"
+			],
+			[
+				"l",
+				"Lead_Actor"
+			],
+			[
+				"lo",
+				"Login"
+			],
+			[
+				"f",
+				"form-group"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"bg",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"in",
+				"input-group-prepend"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"de",
+				"Delete"
+			],
+			[
+				"g",
+				"form-group"
+			],
+			[
+				"a",
+				"actor"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"bt",
+				"btn-primary"
+			],
+			[
+				"co",
+				"col-md-6"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"n",
+				"navigation-bar"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"B",
+				"BUTTON\tTag"
+			],
+			[
+				"for",
+				"form-control"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"o",
+				"option\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"la",
+				"Last"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-right\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"im",
+				"img\tTag"
+			],
+			[
+				"font",
+				"font-size-adjust\tproperty"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": " <?php \necho \"<br>\";\nfor ($a=1; $a<= 5; $a++)\n { \n\nfor ($b=1; $b <=5 ; $b++) \n { \n   echo \"*\";\n}\n  echo \"<br>\";\n}\n \n$a;\n$b;\n\n $a=7;\n $b=10;\necho \"\\nbefore  :\\n\";\necho \"a =\".$a.\"  b=\".$b;\n\n$third = $a;\n$a = $b;\n$b = $third;\n \necho \"\\nafter : \\n\";\necho \" a =\".$a.\"  b=\".$b.\"\\n\";\n echo \"<br><br> \";\n\n\n\n$a = 7;\n$b = 10;\necho \"\\nbefore swapping:  \". $a . ',' . $b;\nlist($a, $b) = array($b, $a);\necho \"\\nafter swapping:  \". $a . ',' . $b.\"\\n\";\necho \"<br><br>\";\necho strrev(\" Hello world!\"); \n\n\n\n\n\n?>",
+			"file": "assignment.php",
+			"file_size": 551,
+			"file_write_time": 132578548343789163,
+			"settings":
+			{
+				"buffer_size": 493,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "forms1.php",
+			"settings":
+			{
+				"buffer_size": 2326,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "form.php",
+			"settings":
+			{
+				"buffer_size": 596,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html> \n\n<head>\n\t<title>login</title>\n\n\n  <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/style.css\">\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/style.css\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../js/main.js\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../css/style.css\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../bootstrap/css/bootsrap-grid.css\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../bootsrap/css/bootstrap-grid.min.css\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../bootstrap/css/bootstrap.css\">\n   <link rel=\"stylesheet\" type=\"text/css\" href=\"../bootstrap/css/bootstrap.min.css\">\n\n\n</head>\n<body>\n\n\n\n<div class=\"container \">\n\t<form>\n    <div class=\"row m-auto\">\n      <div class=\"col-md-4 offset-md-4\">\n             <h3 class=\"text-center\">Login here</h3>\n            <div class=\"form-group\">\n    <label>Email</label>\n    <input type=\"email\" class=\"form-control\" placeholder=\"enter-email\">\n</div>\n  \n    \n   \n<br> \n<div class=\"form-group\">\n\t<label>\n\t\t<button id=\"s1\" type=\"login\" class=\"btn btn-success btn-block\">login</button>\n\t</label>\n</div>\n</div>\n</div>\n\n\n\n</form>\n</div>\n</div>\n\n\n\n\n\n\n  <script type=\"text/javascript\" src=\"../bootstrap/js/bootstrap.js\"></script>\n<script type=\"text/javascript\" src=\"../bootstrap/js/bootstrap.min.js\"></script>\n</body>\n</html>",
+			"file": "/C/Users/Student/Desktop/Aardvark/public/login.php",
+			"file_size": 1543,
+			"file_write_time": 132563788663111389,
+			"settings":
+			{
+				"buffer_size": 1345,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Student/Desktop/Aardvark/index.php",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Student/Desktop/Aardvark",
+		"/C/Users/Student/Desktop/Aardvark/public",
+		"/C/xampp/htdocs/project/PhpIntro",
+		"/C/xampp/htdocs/project/PhpIntro/css",
+		"/C/xampp/htdocs/project/PhpIntro/public"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/project/PhpIntro/public/sc.sublime-project",
+		"/C/xampp/htdocs/project/PhpIntro/public/sc",
+		"/C/Users/Student/Desktop/Aardvark/public/4gotpass.php",
+		"/C/Users/Student/Desktop/konzi/css/style.css",
+		"/C/xampp/htdocs/project/PhpIntro/public/form.php",
+		"/C/xampp/htdocs/project/PhpIntro/public/variables.php",
+		"/C/Users/Student/Desktop/konzi/index.html",
+		"/C/xampp/htdocs/project/PhpIntro/css/style.css",
+		"/C/xampp/htdocs/project/PhpIntro/public/uploadmovie.php",
+		"/C/xampp/htdocs/project/PhpIntro/public/assignment.php",
+		"/C/Users/Student/Desktop/Aardvark/public/uplloadmovie.html",
+		"/C/Users/Student/Desktop/Aardvark/public/signup.php",
+		"/C/Users/Student/Desktop/Aardvark/public/about.html",
+		"/C/Users/Student/Desktop/Aardvark/public/login.php",
+		"/C/Users/Student/Desktop/Aardvark/index.php",
+		"/C/Users/Student/Desktop/Aardvark/index.html",
+		"/C/Users/Student/Desktop/Aardvark/css/style.css",
+		"/C/xampp/htdocs/variables.php",
+		"/C/xampp/htdocs/project/PhpIntro/variables.php",
+		"/C/xampp/htdocs/project/PhpIntro/index.php",
+		"/C/xampp/htdocs/project/PhpIntro/array.php",
+		"/C/Users/Student/Desktop/movie pro/public/uploadMovie.html",
+		"/C/Users/Student/Desktop/Aardvark/public/bootstrap.html",
+		"/C/Users/Student/Desktop/movie pro/public/about.html",
+		"/C/Users/Student/Desktop/movie pro/css/style.css",
+		"/C/Users/Student/Desktop/NORMAN/css/style.css",
+		"/C/Users/Student/Desktop/NORMAN/index.html",
+		"/C/Users/Student/Desktop/NORMAN/images/index.jpg",
+		"/C/Users/Student/Desktop/Aardvark/js/style.css",
+		"/C/Users/Student/Desktop/movie pro/index.html",
+		"/C/Users/Student/Desktop/Aardvark/public/try.html",
+		"/C/Users/Student/Desktop/Aardvark/public/uploadmovie.html",
+		"/C/Users/Student/Desktop/movie pro/uploadmovie.html",
+		"/C/Users/Student/Desktop/movie pro/images/tv_movie_icons_1200x627.jpg",
+		"/C/Users/Student/Desktop/konzi/bootstrap.html",
+		"/C/Users/Student/Desktop/movie pro/bootstrap/css.css",
+		"/C/Users/Student/Desktop/movie pro/bootstrap/js.html",
+		"/C/Users/Student/Desktop/movie pro/bootstrap",
+		"/C/Users/Student/Desktop/konzi/bootstrap/css/bootstrap-grid.css",
+		"/C/Users/Student/Desktop/konzi/js/main.js",
+		"/C/Users/Student/Desktop/hax/bootstrap.html",
+		"/C/Users/Student/Desktop/hax/index.html",
+		"/C/Users/Student/Desktop/konzi/main.js",
+		"/C/Users/Student/Desktop/konzi/js/mai.js",
+		"/C/Users/Student/Desktop/hax/css/style.css",
+		"/C/Users/Student/Desktop/hax/blockandline.html/blockandline.html",
+		"/C/Users/Student/Desktop/hax/css",
+		"/C/Users/Student/Desktop/hax/style.css",
+		"/C/Users/Student/Desktop/NORMAN/css/style.css/style.css",
+		"/C/Users/Student/Desktop/jj/index.html",
+		"/C/Users/Student/Desktop/jj/css/style.css/style.css",
+		"/C/Users/Student/Desktop/jj/css/js/style.css",
+		"/C/Users/Student/Desktop/jj/syle.css",
+		"/C/Users/Student/Desktop/jj/css/style.css/index.html",
+		"/C/Users/Student/Desktop/NORMAN/css/s.html",
+		"/C/Users/Student/Desktop/NORMAN/css/style.css/index.html",
+		"/C/Users/Student/Desktop/NORMAN/style.css",
+		"/C/Users/Student/Desktop/norm/ccs/css",
+		"/C/Users/Student/Desktop/norm/index.html",
+		"/C/Users/Student/Desktop/norm/ccs/s",
+		"/C/Users/Student/Desktop/norm/ccs/st.html",
+		"/C/Users/Student/Desktop/norm/ccs/style css/style css",
+		"/C/Users/Student/Desktop/norm/images/index.jpg",
+		"/C/Users/Student/Desktop/norm/nor",
+		"/C/Users/Student/Desktop/norm/norm",
+		"/C/Users/Student/Desktop/first html/about htnl",
+		"/C/Users/Student/Desktop/first html/index.html",
+		"/C/Users/Student/Desktop/first html/b2.html",
+		"/C/Users/Student/Desktop/first html/index html",
+		"/C/Users/Student/Desktop/first html/index,html"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assignment.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 493,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "forms1.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2326,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								158,
+								158
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 725.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "form.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 596,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 198.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Student/Desktop/Aardvark/public/login.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 93.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Student/Desktop/Aardvark/index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "",
+	"project": "sc.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
